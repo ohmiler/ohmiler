@@ -11,6 +11,7 @@
   <a href="https://twitter.com/ohmiler">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ohmiler&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
 **ohmiler/ohmiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
